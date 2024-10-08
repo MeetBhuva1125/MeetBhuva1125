@@ -7,7 +7,7 @@ I am learning to become a speedcuber in my freetime.
 ### About Me:
 - 👀 I’m currently interested in DeepLearning and LLM's.
 - 🌱 I’m currently learning Backend Developement and machine learning
-- ⚡ Fun facts: You will get to know when you talk to me.
+- ⚡ Focused But Distracted
 
 ### Find Me On:
 <a href="https://linkedin.com/in/meet-bhuva" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="SagnikBarik" height="30" width="40" /></a>
