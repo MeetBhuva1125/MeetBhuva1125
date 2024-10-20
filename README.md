@@ -6,7 +6,7 @@ I am learning to become a speedcuber in my freetime.
 
 ### About Me:
 - 👀 I’m currently interested in DeepLearning and LLM's.
-- 🌱 I’m currently learning Backend Developement and machine learning
+- 🌱 I’m currently learning Web Developement and machine learning
 - ⚡ Focused But Distracted
 
 ### Find Me On:
